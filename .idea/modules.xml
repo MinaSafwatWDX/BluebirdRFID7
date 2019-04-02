@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BBRFIDSample/BBRFIDSample.iml" filepath="$PROJECT_DIR$/BBRFIDSample/BBRFIDSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BBRFIDSampleBT/BBRFIDSampleBT.iml" filepath="$PROJECT_DIR$/BBRFIDSampleBT/BBRFIDSampleBT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BBRFIDSampleBT_New/BBRFIDSampleBT_New.iml" filepath="$PROJECT_DIR$/BBRFIDSampleBT_New/BBRFIDSampleBT_New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BluebirdRFID.iml" filepath="$PROJECT_DIR$/BluebirdRFID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sled_Library/Sled_Library.iml" filepath="$PROJECT_DIR$/Sled_Library/Sled_Library.iml" />
+    </modules>
+  </component>
+</project>
