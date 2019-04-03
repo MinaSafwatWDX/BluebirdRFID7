@@ -22,6 +22,6 @@ android {
 }
 
 dependencies {
-    compile project(':Sled_Library')
-    compile 'com.android.support:support-v4:25.4.0'
+    implementation project(':Sled_Library')
+    implementation 'com.android.support:support-v4:25.4.0'
 }

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sled_Library.bluebird-sled">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Sled_Library/bluebird-sled.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

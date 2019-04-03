@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 02 04:08:27 EET 2019
+#Wed Apr 03 00:06:08 EET 2019
 2.base=D\:\\Data Arranged\\Technical Resources\\Bluebird\\RFR900\\SDK final\\RFR900_Android_SDK_20171124\\RFR900_Android_SDK_20171124\\Samples\\BluebirdRFID\\BluebirdRFID\\BBRFIDSampleBT_New\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 5.set=DEX
 0.path=classes.dex
